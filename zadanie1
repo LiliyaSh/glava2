@@ -1,1 +1,8 @@
-
+#include <iostream>
+using namespace std;
+int main() {
+cout « "Menya zovut Lili.";
+cout « "\n";
+cout « "Moy adres: Prospekt Ilicha 43, kv. 52.";
+return 0;
+}
