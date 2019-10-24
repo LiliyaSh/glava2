@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+int main() {
+int num;
+cout « "vvedite rastoynie v farlongax:";
+cin » num;
+cout « "vashe rastoynie v yardax = " «num * 220;
+return 0;
+}
