@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+void pervaya ()
+{
+cout « "Three bling mice" « endl;
+}
+void vtoraya()
+{
+cout « "See how they run" « endl;
+}
+int main()
+{
+pervaya();
+pervaya();
+vtoraya();
+vtoraya();
+}
